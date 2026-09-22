@@ -59,3 +59,5 @@ The announcement has a [Pricing & availability](https://openai.com/index/advanci
 ## Try Synexa for the rest of the pipeline
 
 Voice is usually one part of a product. If the same app also needs generated images, video clips or non-realtime audio, wiring three vendor SDKs is more work than the voice integration itself. [Try Synexa - a single hosted REST endpoint and Python SDK for FLUX, video and audio models, billed per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=gpt-realtime&utm_content=readme-top&utm_term=tier-r). It does not replace GPT Realtime for live conversation; it removes the integration work for everything around it.
+
+_Last reviewed: 2026-09-22_
